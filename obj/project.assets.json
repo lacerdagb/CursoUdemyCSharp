@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Encapsulamento/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/Encapsulamento.csproj",
+      "msbuildProject": "../ClassLibrary1/Encapsulamento.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Encapsulamento >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\USER\\.nuget\\packages\\": {},
@@ -39,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj": {
+              "projectPath": "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

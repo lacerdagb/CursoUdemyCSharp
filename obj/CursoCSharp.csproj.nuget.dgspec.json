@@ -4,6 +4,21 @@
     "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
+    "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +47,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\USER\\temp\\projetosc#\\CursoCSharp\\ClassLibrary1\\Encapsulamento.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

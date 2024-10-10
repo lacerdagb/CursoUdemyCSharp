@@ -12,3 +12,8 @@ C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\Cu
 C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json
+C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\USER\temp\projetosc#\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSh.88BC1E5B.Up2Date
